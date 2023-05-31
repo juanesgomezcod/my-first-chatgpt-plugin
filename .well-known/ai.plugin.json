@@ -2,7 +2,7 @@
     "schema_version": "v1",
     "name_for_human": "To do plugin",
     "name_for_model": "Manage a ToDo List",
-    "description_for_model": "Plugin for managing a ToDo list. You can add, remove, view and edit items",
+    "description_for_model": "Plugin for managing a ToDo list for chat GPT. You can add, remove, view and edit items",
     "auth": {
         "type": "none"
     },
